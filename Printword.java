@@ -1,5 +1,3 @@
-package strings;
-
 class Stroy{
 	String s ="MadusudhanReddy";
 	
